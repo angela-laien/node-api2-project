@@ -8,8 +8,8 @@ module.exports = {
   insert,
   update,
   remove,
-  findPostComments,
-  findCommentById,
+  findPostComments, 
+  findCommentById, 
   insertComment,
 };
 
